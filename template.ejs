@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🚀 SloP 3.0 - Mentees Assigned to Your Project 🚀</h1>
+        <p>Hello <%= mentorName %>,</p>
+
+        <p>We are pleased to inform you that the following mentees have been assigned to your project for SloP 3.0:</p>
+
+        <table>
+            <tr>
+                <th>Mentee Name</th>
+                <th>Project Name</th>
+                <th>Email</th>
+                <th>GitHub Link</th>
+            </tr>
+            <% mentees.forEach(function(mentee) { %>
+                <tr>
+                    <td><%= mentee.name %></td>
+                    <td><%= mentee.project %></td>
+                    <td><%= mentee.email %></td>
+                    <td><a href="<%= mentee.github %>" target="_blank">GitHub</a></td>
+                </tr>
+            <% }); %>
+        </table>
+
+        <p>Please make sure to reach out to these mentees and provide them with guidance and support for the successful completion of the project. If you have any questions or need further information, feel free to contact us.</p>
+
+        <p>Thank you for your dedication to mentoring our students and leading this project for SloP 3.0. 👏</p>
+
+        <p>Best regards,</p>
+        <p>Your Organization </p>
+    </div>
+</body>
+</html>

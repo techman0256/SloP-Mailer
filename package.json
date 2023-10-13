@@ -1,0 +1,18 @@
+{
+  "name": "slop_mailer",
+  "version": "1.0.0",
+  "description": "A mailer app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "nodemailer": "^6.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
