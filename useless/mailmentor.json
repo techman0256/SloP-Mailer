@@ -1,0 +1,846 @@
+[
+    {
+        "mentor_name": "Akshita Gupta",
+        "mentor_email": "akshitagupta15june@gmail.com",
+        "mentees": [
+            {
+                "name": "Mayank Bansal",
+                "email": "mayankbansal125@gmail.com",
+                "project": "Moksh",
+                "github": "https://github.com/MayankBansal12"
+            },
+            {
+                "name": "Namish Khandelwal",
+                "email": "namishkhandelwal@jklu.edu.in",
+                "project": "DevRoute",
+                "github": "https://github.com/Namishk"
+            },
+            {
+                "name": "Sahil Garg",
+                "email": "sahilgarg3112@gmail.com",
+                "project": "Moksh",
+                "github": "https://github.com/sahilgarg07"
+            },
+            {
+                "name": "Riya Sharma",
+                "email": "rs551143@gmail.com",
+                "project": "Face-X",
+                "github": "https://github.com/techisHeaven"
+            },
+            {
+                "name": "Heer Shah",
+                "email": "heerkshah434@gmail.com",
+                "project": "FlavorFleet",
+                "github": "https://github.com/heer434"
+            },
+            {
+                "name": "Shivam Katare",
+                "email": "katare27451@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/Shivam-Katare"
+            },
+            {
+                "name": "Yash Gangan",
+                "email": "ganganyash160@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/YashGangan"
+            },
+            {
+                "name": "Abhi Raval",
+                "email": "abhihraval@gmail.com",
+                "project": "Person-Reidentification",
+                "github": "https://github.com/abhi-raval-1910"
+            },
+            {
+                "name": "Vishal Tiwari",
+                "email": "vishal2003tiwari0908@gmail.com",
+                "project": "Moksh",
+                "github": "https://github.com/vishaltiwari1910"
+            },
+            {
+                "name": "Piyush Patil",
+                "email": "piyushpatil4270@gmail.com",
+                "project": "",
+                "github": "https://github.com/orgs/PiyushPatil-dev/dashboard"
+            },
+            {
+                "name": "Ishan Raj",
+                "email": "ishanraj1908@gmail.com",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/IshanRaj03"
+            },
+            {
+                "name": "NISHANT GOLAKIYA",
+                "email": "nishantgolakiya2001@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/nishant0192"
+            },
+            {
+                "name": "Bhavya Boda",
+                "email": "bhavyaboda4695@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/Bhavya-2805"
+            },
+            {
+                "name": "Tejus Raghavendra",
+                "email": "tejusraghavendra09@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/Nebula-2003"
+            },
+            {
+                "name": "Lakshay Sharma",
+                "email": "lakshaysharma399@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/lakshaysharma399"
+            },
+            {
+                "name": "Alok sh02",
+                "email": "alokbits02@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/Aloksh42"
+            },
+            {
+                "name": "Tejaswini Mutha",
+                "email": "tejumutha2106@gmail.com",
+                "project": "PetMe",
+                "github": "https://github.com/tejumutha"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Sagnik Das",
+        "mentor_email": "",
+        "mentees": []
+    },
+    {
+        "mentor_name": "Bariya Nishit",
+        "mentor_email": "Nishitbaria@gmail.com",
+        "mentees": [
+            {
+                "name": "Jainam Panchal",
+                "email": "jainampanchal1@gmail.com",
+                "project": "ElectiveHub",
+                "github": "https://github.com/jainam-panchal"
+            },
+            {
+                "name": "RI Karmakar",
+                "email": "karmakarriya462@gmail.com",
+                "project": "TechNode-Community-Website",
+                "github": "https://github.com/CodingRI"
+            },
+            {
+                "name": "Amit Dhiman",
+                "email": "amitdhiman5086@gmail.com",
+                "project": "ElectiveHub",
+                "github": "https://github.com/amitdhiman5086"
+            },
+            {
+                "name": "Ritwik Chandra",
+                "email": "22f3003012@ds.study.iitm.ac.in",
+                "project": "ElectiveHub",
+                "github": "https://github.com/Ritwik1607"
+            },
+            {
+                "name": "Aditya Khattri",
+                "email": "adityakhattri123@gmail.com",
+                "project": "ElectiveHub",
+                "github": "https://github.com/adityakhattri21"
+            },
+            {
+                "name": "SUMAIR KHAN",
+                "email": "mailstosumair@gmail.com",
+                "project": "ElectiveHub",
+                "github": "https://github.com/Sumairkhanmd"
+            },
+            {
+                "name": "Rahul Chan",
+                "email": "rc2658535@gmail.com",
+                "project": "DevRoute",
+                "github": "https://github.com/RahulChan35"
+            },
+            {
+                "name": "Ayush Singh",
+                "email": "ayushsinghmi711@gmail.com",
+                "project": "DevRoute",
+                "github": "https://github.com/ayushsingh82?tab=repositories"
+            },
+            {
+                "name": "UNNATI VERMA",
+                "email": "unnativerma20022003@gmail.com",
+                "project": "DevRoute",
+                "github": "https://github.com/UnnatiVe"
+            },
+            {
+                "name": "Chinmayi DS",
+                "email": "chinmayishaan2316@gmail.com",
+                "project": "DevRoute",
+                "github": "https://github.com/urgetolearn"
+            },
+            {
+                "name": "Krishna Prasanth Gurram",
+                "email": "gkpc2004@gmail.com",
+                "project": "TechNode-Community-Website#community-website",
+                "github": "https://github.com/gkprasanth"
+            },
+            {
+                "name": "Aryan Kapoor",
+                "email": "kapoor95aryan@gmail.com",
+                "project": "TechNode-Community-Website",
+                "github": "https://github.com/kapooraryan"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Patel Pranshu Bhadreshkumar",
+        "mentor_email": "pranshu05patel@gmail.com",
+        "mentees": [
+            {
+                "name": "Niranjan Kurhade",
+                "email": "niranjandk03@gmail.com",
+                "project": "Moksh",
+                "github": "https://github.com/niranjan-kurhade"
+            },
+            {
+                "name": "Rohit Sadhu",
+                "email": "rohitsadhupersonal@gmail.com",
+                "project": "ElectiveHub",
+                "github": "https://github.com/looneyD-ROHIT"
+            },
+            {
+                "name": "Kapil Yadav",
+                "email": "k4p1ll.23@gmail.com",
+                "project": "Elpha",
+                "github": "https://github.com/k4p1l"
+            }
+        ]
+    },
+    {
+        "mentor_name": "SHAISHAV SURATI",
+        "mentor_email": "shaishavsurati06@gmail.com",
+        "mentees": [
+            {
+                "name": "fp Jangra",
+                "email": "shubhamjangrartk@gmail.com",
+                "project": "ElectiveHub",
+                "github": "https://github.com/Typical-techno"
+            },
+            {
+                "name": "Disha Agarwal",
+                "email": "dishaagarwal7001@gmail.com",
+                "project": "Person-Reidentification",
+                "github": "https://github.com/DishaAgarwal1906"
+            },
+            {
+                "name": "Parvesh Rathore",
+                "email": "parvesh.22042@iitgoa.ac.in",
+                "project": "Person-Reidentification",
+                "github": "https://github.com/Prath115"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Jambukiya Ashish Arvindbhai",
+        "mentor_email": "jambukiyaashish6@gmail.com",
+        "mentees": [
+            {
+                "name": "Spandan Mukherjee",
+                "email": "spandanmukherjee2003@gmail.com",
+                "project": "This-is-Calculator",
+                "github": "https://github.com/SpandanM110"
+            },
+            {
+                "name": "ANWESHA GHOSH",
+                "email": "ghoshanwesha272@gmail.com",
+                "project": "This-is-Calculator",
+                "github": "https://github.com/anwe712"
+            },
+            {
+                "name": "Pranjali Aditi",
+                "email": "pranjaliaditi2003@gmail.com",
+                "project": "My-First-React-JS-Project",
+                "github": "https://github.com/pranjaliaditi"
+            },
+            {
+                "name": "Shruti Gupta",
+                "email": "202151151@iiitvadodara.ac.in",
+                "project": "This-is-Calculator",
+                "github": "https://github.com/shrutiiigupta"
+            },
+            {
+                "name": "Mausam Kamdar",
+                "email": "202201372@daiict.ac.in",
+                "project": "This-is-Calculator",
+                "github": "https://github.com/Mausamk123"
+            },
+            {
+                "name": "Harshil Patel",
+                "email": "hnp26052004@gmail.com",
+                "project": "This-is-Calculator",
+                "github": "https://github.com/Harshilpatel2605"
+            },
+            {
+                "name": "Vraj Chaudhari",
+                "email": "hellofromvraj@gmail.com",
+                "project": "My-First-React-JS-Project",
+                "github": "https://github.com/mamasboy2211"
+            },
+            {
+                "name": "Nikhil Chopra",
+                "email": "nikhil0080012005@gmail.com",
+                "project": "My-First-React-JS-Project",
+                "github": "https://github.com/nikhilchopra08"
+            },
+            {
+                "name": "Shubham Kumar",
+                "email": "sr766368@gmail.com",
+                "project": "My-First-React-JS-Project",
+                "github": "https://github.com/shubh1777"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Vishnudhasan Govindarajan",
+        "mentor_email": "gvishnud10@gmail.com",
+        "mentees": [
+            {
+                "name": "Gaurang Jalan",
+                "email": "jalangaurang5@gmail.com",
+                "project": "NoDueProject",
+                "github": "https://github.com/Pixel-Weave"
+            },
+            {
+                "name": "Reon Augustine",
+                "email": "augustinereon@gmail.com",
+                "project": "Performance-Appraisal",
+                "github": "https://github.com/reon2002"
+            },
+            {
+                "name": "Sanidhya Kumar Patra",
+                "email": "sanidhya21_ug@ece.nits.ac.in",
+                "project": "NoDueProject",
+                "github": "https://github.com/SanidhyaPatra"
+            },
+            {
+                "name": "Sumit Kumar Jha",
+                "email": "jhasumit4742@gmail.com",
+                "project": "NoDueProject",
+                "github": "https://github.com/sumit-kumar-jha1709"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Kalp Kinjalbhai Pandya",
+        "mentor_email": "202001466@daiict.ac.in",
+        "mentees": [
+            {
+                "name": "Vidip Ghosh",
+                "email": "ghoshvidip26@gmail.com",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/Vidip-Ghosh"
+            },
+            {
+                "name": "Atmik Shetty",
+                "email": "atmikshetty10@student.sfit.ac.in",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/atmikshetty"
+            },
+            {
+                "name": "Rithvik Gamini",
+                "email": "rithvik2023hack@outlook.com",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/RithvikGamini"
+            },
+            {
+                "name": "Karmanya Gupta",
+                "email": "karmanyagupta1421@gmail.com",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/KarmanyaGupta1421"
+            },
+            {
+                "name": "Shalini Pandey",
+                "email": "i21ma055@amhd.svnit.ac.in",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/keithwind"
+            },
+            {
+                "name": "MD SAMEER",
+                "email": "mn2092@srmist.edu.in",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/deafzx"
+            },
+            {
+                "name": "Aishwarya Jagadish",
+                "email": "aishubangalore21@gmail.com",
+                "project": "Emojify-Emotion-Detector",
+                "github": "https://github.com/AishwaryaJagadish"
+            },
+            {
+                "name": "Daksh Bangoria",
+                "email": "daksh3468@gmail.com",
+                "project": "Emojify-Emotion-Detector.git",
+                "github": "https://github.com/Daksh3468"
+            },
+            {
+                "name": "Aishwarya Vardhan Ashok",
+                "email": "aishwarya04ashok@gmail.com",
+                "project": "Travello",
+                "github": "https://github.com/AishRH"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Kunal Kumarr Sahoo",
+        "mentor_email": "kunal.sahoo2003@gmail.com",
+        "mentees": [
+            {
+                "name": "Krishay Nair",
+                "email": "krishay958@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/KrishayNair"
+            },
+            {
+                "name": "Prasanjit Panda",
+                "email": "prasanjitpanda8@gmail.com",
+                "project": "maniPYlators",
+                "github": "https://github.com/Prasanjit-4"
+            },
+            {
+                "name": "Moksh Agrawal",
+                "email": "agmoksh10@gmail.com",
+                "project": "Stream-Segment",
+                "github": "https://github.com/Moksh-10"
+            },
+            {
+                "name": "krushi sutariya",
+                "email": "krushisutr@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/krushi123/"
+            },
+            {
+                "name": "Aarthy Ramesh",
+                "email": "raarthy1553@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/Aarthy153"
+            },
+            {
+                "name": "Vaishnavi Kale",
+                "email": "vaishnavi.kale3011@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/vaishnavi-3969"
+            },
+            {
+                "name": "Krinal Naghera",
+                "email": "nagherakrinal@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/Krinal24"
+            },
+            {
+                "name": "krushi sutariya",
+                "email": "krushisutr@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/krushi123/"
+            },
+            {
+                "name": "Aarthy Ramesh",
+                "email": "raarthy1553@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/Aarthy153"
+            },
+            {
+                "name": "Vaishnavi Kale",
+                "email": "vaishnavi.kale3011@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/vaishnavi-3969"
+            },
+            {
+                "name": "Krinal Naghera",
+                "email": "nagherakrinal@gmail.com",
+                "project": "DS-for-Dummies",
+                "github": "https://github.com/Krinal24"
+            }
+        ]
+    },
+    {
+        "mentor_name": "SAURABH DWIVEDI",
+        "mentor_email": "saurabhdwivedi2310@gmail.com",
+        "mentees": [
+            {
+                "name": "Ankit Anand",
+                "email": "1930007@kiit.ac.in",
+                "project": "iNoteBook",
+                "github": "https://github.com/AnkitAnandMastery17"
+            },
+            {
+                "name": "Argha Majumder",
+                "email": "majumderargha847@gmail.com",
+                "project": "iNoteBook",
+                "github": "https://github.com/Argha-Majumder"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Rakesh Roshan",
+        "mentor_email": "roshanrakesh7362@gmail.com",
+        "mentees": [
+            {
+                "name": "Panth Shah",
+                "email": "panthshah242@gmail.com",
+                "project": "Click-The-Edible-Game",
+                "github": "https://github.com/Panth1823"
+            },
+            {
+                "name": "Sheetal Bisht",
+                "email": "sheetalbisht41@gmail.com",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/sheetalbisht2001"
+            },
+            {
+                "name": "Garv Saxena",
+                "email": "garvsaxena185@gmail.com",
+                "project": "Greeting-Time",
+                "github": "https://github.com/Volcano-Dragon"
+            },
+            {
+                "name": "Kavya Shah",
+                "email": "kavyaatulshahpatan@gmail.com",
+                "project": "Greeting-Time",
+                "github": "https://github.com/Kavyashah26"
+            },
+            {
+                "name": "Arpit Bisht",
+                "email": "arpitbisht.31415@gmail.com",
+                "project": "Click-The-Edible-Game",
+                "github": "https://github.com/tipra31415"
+            },
+            {
+                "name": "Saravanakumar R",
+                "email": "saravanaramaswamy2003@gmail.com",
+                "project": "Click-The-Edible-Game",
+                "github": "https://github.com/Saravanakumar2003"
+            },
+            {
+                "name": "Soumyadev Saha",
+                "email": "phantomarlex@gmail.com",
+                "project": "Click-The-Edible-Game",
+                "github": "https://github.com/SoumyadevSaha"
+            },
+            {
+                "name": "Aliya Tariq",
+                "email": "aliyatariq2000@gmail.com",
+                "project": "Click-The-Edible-Game",
+                "github": "https://github.com/Aliya-Tariq"
+            },
+            {
+                "name": "Gurjot Kaur",
+                "email": "jyotk94@gmail.com",
+                "project": "Click-The-Edible-Game",
+                "github": "https://github.com/gjyotk"
+            },
+            {
+                "name": "Dhaval Patel",
+                "email": "dmjpatel210@gmail.com",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/dhaval9157"
+            },
+            {
+                "name": "Gagana M D",
+                "email": "gagana912dev@gmail.com",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/GaganaMD"
+            },
+            {
+                "name": "Vaibhav Sanepara",
+                "email": "saneparavaibhav73@gmail.com",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/DEADPOOL712"
+            },
+            {
+                "name": "Hitesh Mehta",
+                "email": "hteshpooja@gmail.com",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/hitesh-mehta"
+            },
+            {
+                "name": "Meghraj Patil",
+                "email": "mp3459@srmist.edu.in",
+                "project": "ML-Project-Drug-Review-Dataset",
+                "github": "https://github.com/mathblender17"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Vihar Shah",
+        "mentor_email": "vihar2121@gmail.com",
+        "mentees": [
+            {
+                "name": "Sayanabha Chandra",
+                "email": "sayanabhachandraitsme@gmail.com",
+                "project": "Desktop-Assistant",
+                "github": "https://github.com/sayanabha"
+            },
+            {
+                "name": "Vidhan Chavda",
+                "email": "gamingbuddy105@gmail.com",
+                "project": "Desktop-Assistant",
+                "github": "https://github.com/Rockey105"
+            },
+            {
+                "name": "Kruti Pandya",
+                "email": "pandyakruti43@gmail.com",
+                "project": "Desktop-Assistant",
+                "github": "https://github.com/Krutipandyas"
+            },
+            {
+                "name": "Nandhan Dwara",
+                "email": "nandhandwara@gmail.com",
+                "project": "Desktop-Assistant",
+                "github": "https://github.com/NandhanDwara"
+            },
+            {
+                "name": "Anamika Kumari",
+                "email": "anamikakumari.ak100@gmail.com",
+                "project": "Desktop-Assistant",
+                "github": "https://github.com/anamikak22"
+            },
+            {
+                "name": "Anmol Sharma",
+                "email": "anmol79sharma@gmail.com",
+                "project": "Desktop-Assistant",
+                "github": "https://github.com/Anmol-Sharma21"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Modi Om Chetankumar",
+        "mentor_email": "ocmodi2117@gmail.com",
+        "mentees": [
+            {
+                "name": "Karan Padhiyar",
+                "email": "202001162@daiict.ac.in",
+                "project": "Idealab-web",
+                "github": "https://github.com/b202001162"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Himanshu Narware",
+        "mentor_email": "himanshunarware77@gmail.com",
+        "mentees": [
+            {
+                "name": "Ananya Sharma",
+                "email": "ananya.sharma2021a@vitstudent.ac.in",
+                "project": "Devlabs",
+                "github": "https://github.com/Ananyasharma112344"
+            },
+            {
+                "name": "Hrid Chakraborty",
+                "email": "hridchakraborty@gmail.com",
+                "project": "Devlabs",
+                "github": "https://github.com/hrid-chakraborty/"
+            },
+            {
+                "name": "Vihar Shah",
+                "email": "vihar2121@gmail.com",
+                "project": "Devlabs",
+                "github": "https://github.com/vihar-s1"
+            },
+            {
+                "name": "Jayesh Padiya",
+                "email": "jayeshdpadiya1802@gmail.com",
+                "project": "Devlabs",
+                "github": "https://github.com/jayesh1802"
+            },
+            {
+                "name": "Kunal Vashisht",
+                "email": "azogxis@gmail.com",
+                "project": "Devlabs.git",
+                "github": "https://github.com/kunal649"
+            },
+            {
+                "name": "Ayush Shukla",
+                "email": "ayushshukla3999@gmail.com",
+                "project": "Devlabs",
+                "github": "https://github.com/Ayushshuk-la"
+            },
+            {
+                "name": "Diwansh Gupta",
+                "email": "dewanshgupta120@gmail.com",
+                "project": "Devlabs",
+                "github": "https://github.com/DiwanshGupta"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Trisha Sahu",
+        "mentor_email": "1234trishasahu@gmail.com",
+        "mentees": [
+            {
+                "name": "Luv Patel",
+                "email": "luvpatel2790.svmr@gmail.com",
+                "project": "OnlineBookSales-Backend",
+                "github": "https://github.com/luv2027"
+            },
+            {
+                "name": "Tanishk Singhal",
+                "email": "tanishksinghal6643@gmail.com",
+                "project": "whatsapp-trisha-frontend",
+                "github": "https://github.com/Hack-jack-Electronics"
+            },
+            {
+                "name": "Aniket Kumar",
+                "email": "aniket.2125ec1117@kiet.edu",
+                "project": "whatsapp-trisha-backend",
+                "github": "https://github.com/aniket2125ec1117"
+            },
+            {
+                "name": "Soham Sawant",
+                "email": "sohamsawant075@gmail.com",
+                "project": "whatsapp-trisha-backend",
+                "github": "https://github.com/s0ham075"
+            }
+        ]
+    },
+    {
+        "mentor_name": "HARI KAPADIA",
+        "mentor_email": "",
+        "mentees": []
+    },
+    {
+        "mentor_name": "Vedant Trivedi",
+        "mentor_email": "tvs13vst13@gmail.com",
+        "mentees": [
+            {
+                "name": "Mayur Jadhav",
+                "email": "mayurshrikantjadhav@gmail.com",
+                "project": "wallpair",
+                "github": "https://github.com/mayurjadhav2002"
+            },
+            {
+                "name": "Yashasvini Sharma",
+                "email": "ysmarina1234@gmail.com",
+                "project": "wallpair",
+                "github": "https://github.com/yashasvini121"
+            },
+            {
+                "name": "Sayfulla Mirxalikov",
+                "email": "mirxoliqov.sayfulla@gmail.com",
+                "project": "wallpair",
+                "github": "https://github.com/thesayfulla"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Arnish Satasiya",
+        "mentor_email": "arnishsatasiya333@gmail.com",
+        "mentees": [
+            {
+                "name": "Unmani Shinde",
+                "email": "mailto.unmani@gmail.com",
+                "project": "HealthBoard",
+                "github": "https://github.com/unmani-shinde"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Shivam Madlani",
+        "mentor_email": "202101016@daiict.ac.in",
+        "mentees": [
+            {
+                "name": "Farhat Kadiwala",
+                "email": "farhat4281@gmail.com",
+                "project": "chatApp",
+                "github": "https://github.com/farhatkadiwala"
+            },
+            {
+                "name": "Anisha Patra",
+                "email": "anipatra733@gmail.com",
+                "project": "chatApp",
+                "github": "https://github.com/ap766"
+            },
+            {
+                "name": "Harsh kumar Sharma",
+                "email": "harshsharma11d@gmail.com",
+                "project": "chatApp",
+                "github": "https://github.com/harshoo1"
+            },
+            {
+                "name": "Tara Ramasamy",
+                "email": "ramasamytara@gmail.com",
+                "project": "chatApp",
+                "github": "https://github.com/tara210"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Jay Malaviya",
+        "mentor_email": "202101048@daiict.ac.in",
+        "mentees": [
+            {
+                "name": "Pratik Ringe",
+                "email": "pratikringe0406@gmail.com",
+                "project": "Kitter",
+                "github": "https://github.com/pratikringe46"
+            },
+            {
+                "name": "Parjanya Rajput",
+                "email": "202201115@daiict.ac.in",
+                "project": "Kitter",
+                "github": "https://github.com/parjanya-rajput"
+            },
+            {
+                "name": "Krish Gaur",
+                "email": "krishgaur13@gmail.com",
+                "project": "Chess_AI",
+                "github": "https://github.com/KrishGaur1354"
+            },
+            {
+                "name": "Yuvjeet Arora",
+                "email": "artiarorasingh@gmail.com",
+                "project": "Chess_AI",
+                "github": "https://github.com/Yuvjeet"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Harshkumar Metkel",
+        "mentor_email": "harshmetkel24@gmail.com",
+        "mentees": [
+            {
+                "name": "DHARMESH KOTA",
+                "email": "dharmeshkota123@gmail.com",
+                "project": "pricehistory",
+                "github": "https://github.com/Dharmesh-Kota/"
+            }
+        ]
+    },
+    {
+        "mentor_name": "Pranav Patel",
+        "mentor_email": "patelpranav916@gmail.com",
+        "mentees": [
+            {
+                "name": "Roneet Yadav",
+                "email": "roneet4093@gmail.com",
+                "project": "node-jobportal",
+                "github": "https://github.com/Dev-X-Innovate"
+            },
+            {
+                "name": "Ankit Gupta",
+                "email": "spydergup@gmail.com",
+                "project": "node-jobportal",
+                "github": "https://github.com/en1gm479"
+            },
+            {
+                "name": "Shubham Tiwari",
+                "email": "shubht3303@gmail.com",
+                "project": "node-jobportal",
+                "github": "https://github.com/DevJSter"
+            },
+            {
+                "name": "Shubham Paul",
+                "email": "spl.sp999@gmail.com",
+                "project": "node-jobportal",
+                "github": "https://github.com/Shu12388y"
+            }
+        ]
+    }
+]
